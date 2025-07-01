@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2025-07-01T07:36:39.880671147Z"
+    digest: 8afe22ad0c4b7b22d852ae20f1e9e76adf8d3534f5622149578f6c0872110409
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-01T07:36:39.88037539Z"
